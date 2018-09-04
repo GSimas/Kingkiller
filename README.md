@@ -2,9 +2,11 @@
 
 The Kingkiller Chronicle
 
-1. The Name of the Wind (2007)
-2. The Wise Man's Fear (2011)
-2.5 The Slow Regard of Silent Things (2014)
+1 - The Name of the Wind (2007)
+
+2 - The Wise Man's Fear (2011)
+
+2.5 - The Slow Regard of Silent Things (2014)
 
 Website: [kingkiller.ga](http://kingkiller.ga)
 
