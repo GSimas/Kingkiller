@@ -8,7 +8,7 @@ The Kingkiller Chronicle
 
 2.5 - The Slow Regard of Silent Things (2014)
 
-Website: [kingkiller.ga](http://kingkiller.ga)
+Website: [kingkiller.cf](http://kingkiller.cf)
 
 Developer: [Gustavo Simas da Silva](gsimas.github.io)
 
